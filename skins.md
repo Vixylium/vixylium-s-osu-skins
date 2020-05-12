@@ -3,7 +3,7 @@
 # Click the skin's name to download
 
 # [vaxei 404](https://skins.osuck.net/index.php?newsid=272)
-![](https://skins.osuck.net/uploads/posts/2018-09/1537866734_gwd7ahb.jpg)
+![](https://skins.osuck.net/uploads/posts/2018-11/1541395297_screenshot993.jpg)
 
 # [original blue rafis](https://skins.osuck.net/index.php?newsid=164)
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537866734_gwd7ahb.jpg)
