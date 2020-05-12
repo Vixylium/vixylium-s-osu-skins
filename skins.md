@@ -9,7 +9,7 @@
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537866734_gwd7ahb.jpg)
 
 # [original rafis](https://skins.osuck.net/index.php?newsid=166)
-![](https://skins.osuck.net/uploads/posts/2019-12/1576902299_1537866905_ferbeuw.jpg)
+![](https://osuskins.net/screenshots/ekynLzX.jpg)
 
 # [rafis vixylium edit](https://drive.google.com/open?id=1_sPLmSPRDXh_VCvmkW0qk4JVP-G_oUas)
 ![](https://osu.ppy.sh/ss/14902825/b310)
