@@ -2,6 +2,12 @@
 
 # Click the skin's name to download
 
+# [monkoyaong](https://drive.google.com/open?id=1qhe8UwuECkuVCqPtPzPPwDZdppALPFqP)
+![](https://osu.ppy.sh/ss/14948061/95d2)
+
+# [azer -ite](https://drive.google.com/open?id=1Ep8rpv-TOeYqh4LXMFbO2o3wk1tf-CN0)
+![](https://osu.ppy.sh/ss/14948063/3893)
+
 # [vaxei 404](https://skins.osuck.net/index.php?newsid=272)
 ![](https://skins.osuck.net/uploads/posts/2018-11/1541395297_screenshot993.jpg)
 
