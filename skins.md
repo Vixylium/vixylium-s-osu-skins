@@ -2,6 +2,12 @@
 
 # Click the skin's name to download
 
+# [theez with blue cursor](https://drive.google.com/file/d/1D5gyXh2FbgGbeFID7USK-dXsigRP4lFg/view?usp=sharing)
+![](https://osu.ppy.sh/ss/15059086/c2d0)
+
+# [obtio's rafis edit](https://drive.google.com/file/d/1inRsoGGFXrccDbqz38E81QDP_UjQ6abT/view?usp=sharing)
+![](https://osu.ppy.sh/ss/15059089/d55f)
+
 # [monkoyaong](https://drive.google.com/open?id=1qhe8UwuECkuVCqPtPzPPwDZdppALPFqP)
 ![](https://osu.ppy.sh/ss/14948061/95d2)
 
@@ -26,3 +32,5 @@
 # [404 vixylium edit](https://drive.google.com/open?id=1GwOKQfJxOI7-rjvashZJRHdP3_kVkdQ9)
 Enable HighResolution in your .cfg file to use this skin.
 ![](https://osu.ppy.sh/ss/14902497/9f24)
+
+hello owoowowowowowowowowow uwu
