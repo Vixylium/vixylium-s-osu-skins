@@ -1,6 +1,12 @@
 # Vixylium's osu skins
 
-# Click the skin's name to download
+# Click the skin's name to download\
+
+# [this skin??](https://www.mediafire.com/file/etlcoa88w05vidf/-_%23_ThorfaensAwesomeSkin.osk/file)
+![](https://osu.ppy.sh/ss/15501716/758e)
+
+# [rebella skin](https://drive.google.com/uc?export=download&id=1MWz9_Yu8aPPuHc-vZ4GSQvhbkfM671s8)
+![](https://osu.ppy.sh/ss/15501709/34d5)
 
 # [vaxei old bubble hitsounds](https://vixylium.s-ul.eu/NfJPl0eO)
 ![](https://camo.githubusercontent.com/01fb45515ee3b61b4909594ab6c4d4c2c3d716f7/68747470733a2f2f6f73752e7070792e73682f73732f31353034303937332f63666430)
